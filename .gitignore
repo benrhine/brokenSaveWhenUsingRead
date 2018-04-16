@@ -1,0 +1,17 @@
+Thumbs.db
+.DS_Store
+.gradle
+build/
+*.idea
+*.iml
+*.ipr
+*.iws
+.project
+.settings
+.classpath
+.asscache
+prodDb.mv.db
+# Elastic Beanstalk Files
+.elasticbeanstalk/*
+!.elasticbeanstalk/*.cfg.yml
+!.elasticbeanstalk/*.global.yml
